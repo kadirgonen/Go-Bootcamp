@@ -1,0 +1,19 @@
+# İçerik
+- Go Kod Yapısı ve Analizi
+- Global ve Yerel Değişkenler
+- Sabitler
+- Değişkenler
+- Temel Veri Tipleri
+- Scope
+- if Yapısı 1
+- if Yapısı 2
+- switch
+- break, continue, goto
+- for, while 
+- Dizi Oluşturma
+- Range
+- ARRAYS, For - Range Yapısı
+- SLICES, Arrays vs Slices, Value - Reference
+- SLICES II, Append - Slicing[:], Underlying Array
+- MAPS, Key - Value, Add - Delete
+- GIT ve GITHUB Kullanımı
