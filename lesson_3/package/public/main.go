@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/kadirgonen/GO-BOOTCAMP/formatter"
-	"github.com/kadirgonen/GO-BOOTCAMP/math"
+	"github.com/kadirgonen/Go-Bootcamp/formatter"
+	"github.com/kadirgonen/Go-Bootcamp/math"
 )
 
 func main() {

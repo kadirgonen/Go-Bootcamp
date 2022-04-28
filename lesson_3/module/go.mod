@@ -1,5 +1,5 @@
-module github.com/kadirgonen/GO-BOOTCAMP
+module github.com/kadirgonen/Go-Bootcamp
 
 go 1.18
 
-require github.com/google/uuid v1.3.0 // indirect
+require github.com/google/uuid v1.3.0

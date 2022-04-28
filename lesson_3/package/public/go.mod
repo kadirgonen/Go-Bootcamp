@@ -1,3 +1,3 @@
-module github.com/kadirgonen/GO-BOOTCAMP
+module github.com/kadirgonen/Go-Bootcamp
 
 go 1.18

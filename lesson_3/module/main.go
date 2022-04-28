@@ -7,7 +7,7 @@ import (
 	"github.com/google/uuid"
 )
 
-// go mod init github.com/kadirgonen/GO-BOOTCAMP
+// go mod init github.com/kadirgonen/Go-Bootcamp/
 // go get go get github.com/google/uuid
 func main() {
 	u, err := uuid.NewUUID()
