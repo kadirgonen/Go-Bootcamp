@@ -1,0 +1,4 @@
+patika go
+bootcamp
+golang is the best
+concurrency is easy
