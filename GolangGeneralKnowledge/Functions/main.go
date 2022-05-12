@@ -9,7 +9,7 @@ func VariadicFunc(numbers ...int) int {
 	}
 	return total
 }
-func divide(numerator, denominator int) (int, error) {
+func divide(numerator int, denominator int) (int, error) {
 	if denominator == 0 {
 		return 0, errors.New("cannot divide by zero")
 	}
