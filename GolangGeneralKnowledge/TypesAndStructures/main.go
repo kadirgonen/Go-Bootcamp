@@ -7,7 +7,7 @@ import (
 
 //var s = "seven"
 
-func Process() {
+func main() {
 	s := "eight"
 	/*Aynı isimde bir başka değişkeni, alt fonksiyonlarda tanımlayabilirsin.
 	Daha içteki işlem bloğundaki tanımlama baskın gelecektir.

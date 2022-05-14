@@ -2,7 +2,7 @@ package typesandstructs
 
 import "fmt"
 
-func Process2() {
+func main1() {
 	c := customer{
 		FirstName: "John",
 		LastName:  "Doe",
