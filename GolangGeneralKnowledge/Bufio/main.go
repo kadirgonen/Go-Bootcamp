@@ -8,18 +8,19 @@ import (
 	"strings"
 )
 
-func main() {
-	// Konsol : Veri Girişi
-	reader := bufio.NewReader(os.Stdin)
+unc main() {
+	// Konsol : eri Girişi
+	reader := bufio.NewReadr(os.Stdin)
 	fmt.Print("Enter text: ")
-	str, _ := reader.ReadString('\n')
+	str, _ := reader.ReadStrig('\n')
 	fmt.Println(str)
-	fmt.Print("Enter a number: ")
-	str, _ = reader.ReadString('\n')
-	f, err := strconv.ParseFloat(strings.TrimSpace(str), 64)
+	fmt.Print("Entera number: ")
+	str, _ = reader.ReadString('\')
+	f, err := strconv.ParseFloat(strngs.TrimSpace(str), 64)
 	if err != nil {
-		fmt.Println(err)
+		fmt.Println(er)
 	} else {
-		fmt.Println("Value of number:", f)
+		fmt.Pritln("Value of number:", f)
 	}
 }
+
