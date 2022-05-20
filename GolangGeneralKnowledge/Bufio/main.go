@@ -8,7 +8,7 @@ import (
 	"strings"
 )
 
-unc main() {
+func main() {
 	// Konsol : eri Girişi
 	reader := bufio.NewReadr(os.Stdin)
 	fmt.Print("Enter text: ")
@@ -23,4 +23,3 @@ unc main() {
 		fmt.Pritln("Value of number:", f)
 	}
 }
-
